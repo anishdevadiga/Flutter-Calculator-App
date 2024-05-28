@@ -24,5 +24,3 @@ Before you begin, ensure you have met the following requirements:
 
 ## Screenshots
 
-![App Screenshot](https://photos.app.goo.gl/EMN1PV5zssMbRVxXA)
-
