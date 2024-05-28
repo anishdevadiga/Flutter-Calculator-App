@@ -23,4 +23,5 @@ Before you begin, ensure you have met the following requirements:
 - You have a Windows/Linux/Mac machine.
 
 ## Screenshots
+![IMG_20240528_205919](https://github.com/anishdevadiga/Flutter-Calculator-App/assets/143006940/7a34e116-b957-4d1e-85be-2498fc2a4c26)
 
